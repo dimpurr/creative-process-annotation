@@ -1,0 +1,6 @@
+## Wallas  (Wallas (1926))
+- preparation: The first stage, Preparation, is "the stage during which the problem was investigated in all directions" — the creator gathers information, studies the problem, and engages in deliberate, conscious work on it.
+- incubation: The second stage, Incubation, is "the stage during which he was not consciously thinking about the problem" — the mind works on the problem below the threshold of awareness; no deliberate effort is expended.
+- illumination: The third stage, Illumination, consists of "the appearance of the 'happy idea' together with the psychological events which immediately preceded and accompanied that appearance" — the 'Eureka' moment when a solution or insight suddenly emerges.
+- verification: The fourth stage, Verification, is when the idea or solution is tested, evaluated, elaborated, and refined — the creator assesses whether the illumination is valid and works out its details and implications.
+- none: sentence does not fit any of the above stages. Use freely when uncertain — do not force a label.

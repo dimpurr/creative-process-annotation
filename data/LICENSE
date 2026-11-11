@@ -1,0 +1,9 @@
+The data in this directory is released under CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/), with the following exception.
+
+`derived/corpus_restricted_keys.jsonl` contains no source text. The identifiers, hashes and
+positional fields in it are released under CC BY 4.0, but the underlying Van Gogh and
+Whistler letter texts are not covered by this licence and are not distributed here. See
+README.md for the rights position of each source.
+
+Model outputs in ../runs/ are released under CC BY 4.0.

@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Leveraging Creative-Process Theories to Enrich a Corpus of Artists' Letters through Annotation Schemes"
+message: If you use this software, please cite it using the metadata in this file.
+type: software
+abstract: >-
+  Code, model outputs and derived data for a study that applies four annotation
+  schemes based on published theories of the creative process, with brief clarifying notes where needed, to a
+  sentence-level corpus of letters in which four creators write about work in
+  progress. An offline script recomputes the figures in the paper that rest only
+  on the model annotators' labels.
+keywords:
+  - annotation
+  - computational-humanities
+  - digital-humanities
+  - large-language-models
+  - reproducibility
+  - historical-letters
+license: [MIT, CC-BY-4.0]
+repository-code: https://github.com/dimpurr/creative-process-artists-letters
+authors:
+  - family-names: Chen
+    given-names: Yang
+    affiliation: "Department of Digital Humanities, King's College London"
+    orcid: https://orcid.org/0009-0008-0256-6602
+contact:
+  - family-names: Chen
+    given-names: Yang
+    email: yang.5.chen@kcl.ac.uk
+preferred-citation:
+  type: conference-paper
+  title: "Leveraging Creative-Process Theories to Enrich a Corpus of Artists' Letters through Annotation Schemes"
+  authors:
+    - family-names: Chen
+      given-names: Yang
+      orcid: https://orcid.org/0009-0008-0256-6602
+    - family-names: Gotham
+      given-names: Mark
+      orcid: https://orcid.org/0000-0003-0722-3074
+  conference:
+    name: "Computational Humanities Research 2027"

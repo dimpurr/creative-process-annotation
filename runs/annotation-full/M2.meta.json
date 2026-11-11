@@ -1,0 +1,21 @@
+{
+ "arm": "M2",
+ "provider": "dashscope",
+ "error_kinds": {},
+ "temperature": 0.0,
+ "max_tokens": 1200,
+ "reasoning": "disabled",
+ "n": 3928,
+ "seconds": 5398.8,
+ "usage": {
+  "prompt_tokens": 24660962,
+  "completion_tokens": 559313
+ },
+ "na_counts": {
+  "MaceWard": 2,
+  "Tinio": 0,
+  "Botella17": 3,
+  "Wallas": 0
+ },
+ "na_rate_overall": 0.0003
+}
