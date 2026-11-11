@@ -2,6 +2,14 @@ cff-version: 1.2.0
 title: "Leveraging Creative-Process Theories to Enrich a Corpus of Artists' Letters through Annotation Schemes"
 message: If you use this software, please cite it using the metadata in this file.
 type: software
+doi: 10.5281/zenodo.24138156
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24138156
+    description: Concept DOI for all versions
+  - type: doi
+    value: 10.5281/zenodo.24138157
+    description: Version DOI for v1.0
 abstract: >-
   Code, model outputs and derived data for a study that applies four annotation
   schemes based on published theories of the creative process, with brief clarifying notes where needed, to a

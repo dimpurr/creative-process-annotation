@@ -72,4 +72,4 @@ If you use this repository, please cite the paper:
 > Yang Chen and Mark Gotham. Leveraging Creative-Process Theories to Enrich a Corpus of
 > Artists' Letters through Annotation Schemes. In *Computational Humanities Research 2027*.
 
-A DOI for this repository will be added here. Citation metadata are in `CITATION.cff`.
+Repository DOI: https://doi.org/10.5281/zenodo.24138156 (all versions); https://doi.org/10.5281/zenodo.24138157 (v1.0). Citation metadata are in `CITATION.cff`.
