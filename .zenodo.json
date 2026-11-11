@@ -1,0 +1,29 @@
+{
+  "upload_type": "software",
+  "title": "Leveraging Creative-Process Theories to Enrich a Corpus of Artists' Letters through Annotation Schemes",
+  "description": "Code, model outputs and derived data for a study that applies four annotation schemes based on published theories of the creative process, with brief clarifying notes where needed, to a sentence-level corpus of letters in which four creators write about work in progress. An offline script recomputes the figures in the paper that rest only on the model annotators' labels.",
+  "creators": [
+    {
+      "name": "Chen, Yang",
+      "affiliation": "Department of Digital Humanities, King's College London",
+      "orcid": "0009-0008-0256-6602"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gotham, Mark",
+      "type": "Supervisor",
+      "affiliation": "King's College London",
+      "orcid": "0000-0003-0722-3074"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "annotation",
+    "computational-humanities",
+    "digital-humanities",
+    "large-language-models",
+    "reproducibility",
+    "historical-letters"
+  ]
+}
